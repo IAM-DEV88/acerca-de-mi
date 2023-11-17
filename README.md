@@ -11,7 +11,7 @@ Comencé mi camino reparando salones de informática, cumplí perfiles como prof
 - Generador de guiones en inglés (párrafos sencillos)
 - Agenda de tareas
 - <a href="https://github.com/IAM-DEV88/RIE">Control de contabilidad personal</a>
-- [Otros proyectos desarrollados](https://github.com/IAM-DEV88/About-me#otros-proyectos-desarrollados-)
+- [Otros proyectos desarrollados](https://github.com/IAM-DEV88/acerca-de-mi/blob/main/README.md#otros-proyectos-desarrollados-)
 
 De esta forma forjé hábitos autodidactas en los que diariamente utilizo documentación oficial de referencia, videos y foros tanto en español como en inglés para mejorar y consolidar mis conocimientos.
 
